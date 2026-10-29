@@ -1,11 +1,5 @@
 # Forma · Miniapp de entrenamiento
 
-## Publicación en Vercel
-
-1. Descomprime el ZIP.
-2. En Vercel crea un proyecto y sube la carpeta `curva-fit`, o importa un repositorio GitHub con estos archivos en la raíz.
-3. No necesitas dependencias, Node, frameworks ni base de datos. El archivo principal es `index.html`.
-4. Accede a tu dominio HTTPS de Vercel. Puedes instalar la app desde el navegador si se ofrece la opción de instalar aplicación.
 
 ## Guardado
 
